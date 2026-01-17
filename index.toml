@@ -171,6 +171,11 @@ hash = "c5c3b4ad7a932e3f3f963dabd0f1557b9db845d17624f08e68910e1cc1c4997a"
 metafile = true
 
 [[files]]
+file = "mods/embeddium.pw.toml"
+hash = "2a4e32365b962f7857d6003af7abee398a92919a5b3ddcd2a51ab9359b80865a"
+metafile = true
+
+[[files]]
 file = "mods/ender-storage-1-8.pw.toml"
 hash = "638f7c447dbe7dc2e85e4bf89d70fb41632db940a57de498094f2be57fa6c18d"
 metafile = true
@@ -181,6 +186,11 @@ hash = "ab024d7c68f1f4297c0a76852897ffeb2d4c67fbd5ca314e3dc76100cd1e0922"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "0b2a1719c0470efdf7d5674df5b665183f927c90d00b579e3a1eb27024f31570"
+metafile = true
+
+[[files]]
 file = "mods/extreme-reactors.pw.toml"
 hash = "40568e27bafdcd30606f25192bf1450dfb292b77cb7a3d9b47cf05b59bd8aa51"
 metafile = true
@@ -188,6 +198,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "bcdf0eb4ba4f7b5373a1bc736fd3722d95604bef8390492b2ff4f96676980d21"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
 metafile = true
 
 [[files]]
@@ -353,6 +368,11 @@ metafile = true
 [[files]]
 file = "mods/mekanism.pw.toml"
 hash = "ca1353c887a5d2cc1ade72bf20c8505a6c52f9e882190a9eca20933cf1096a60"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "f54c3a76129d13a9c8a0845b1261ee9fdbfd9e98c32814d1f19334cd0174c5f3"
 metafile = true
 
 [[files]]
