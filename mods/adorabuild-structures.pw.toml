@@ -1,0 +1,13 @@
+name = "AdoraBuild: Structures"
+filename = "adorabuild-structures-2.8.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rYlnn25U/versions/lXwpMoOg/adorabuild-structures-2.8.0-forge-1.20.1.jar"
+hash-format = "sha1"
+hash = "97ff85b40c109a5997f852d7be3c64dcdba69e93"
+
+[update]
+[update.modrinth]
+mod-id = "rYlnn25U"
+version = "lXwpMoOg"
