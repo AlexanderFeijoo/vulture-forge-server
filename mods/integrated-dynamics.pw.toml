@@ -1,0 +1,13 @@
+name = "Integrated Dynamics"
+filename = "IntegratedDynamics-1.20.1-1.29.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yYzdQHJI/versions/o9IZ1Nu4/IntegratedDynamics-1.20.1-1.29.11.jar"
+hash-format = "sha1"
+hash = "41ad24da4fad9554417d8cc6ad0e1f994fb67061"
+
+[update]
+[update.modrinth]
+mod-id = "yYzdQHJI"
+version = "o9IZ1Nu4"

@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "68b5bdc002f32d6fb8b21b61b4131ebea7a437d716ecc463662e29edc24d1176"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "0a1d5aeaae3975eaa4bb3a98e91852f797a5095794af70df41d50841c57ca347"
 metafile = true
@@ -16,6 +21,11 @@ hash = "45bfe44cb3208de7ce385b6a3e98251e7423c5aac8ebec9c13c752b75661d793"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "c72e4a565fe869f467a6d7ede10d844bfae9f126919f966ef02123cc902014db"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "5ac32407263c973bebc5aee61fe000d29d9879020fafb6631581396b64e55dfe"
 metafile = true
@@ -23,6 +33,21 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "fb8e035187556a9406507176782dd251769d8cdf14e9712b508bcc47ff6904d9"
+metafile = true
+
+[[files]]
+file = "mods/codechicken-lib-1-8.pw.toml"
+hash = "f88db7aef79947669ba4d736cc2f352a2269eb21770d5597d306c3017ea126dc"
+metafile = true
+
+[[files]]
+file = "mods/cofh-core.pw.toml"
+hash = "1ba38e1558b064ee70588d7b61f7fe208b233af999b13c0cf03a11b628d05cb0"
+metafile = true
+
+[[files]]
+file = "mods/common-capabilities.pw.toml"
+hash = "528bfbe1aedcf5890638272d7c15d9f0555f77bf94d7742a5ea0b2a8ff5fea8c"
 metafile = true
 
 [[files]]
@@ -36,6 +61,66 @@ hash = "c1fb4b35943ed603eaaa2999ec0faa3d22a5ea2a95f7ef1b0cd0eae83c945bae"
 metafile = true
 
 [[files]]
+file = "mods/cyclops-core.pw.toml"
+hash = "a96f37497f8f48b02e8c61055c9ae8c2f3c363382463b406056c0c26e9fb3c66"
+metafile = true
+
+[[files]]
+file = "mods/ender-storage-1-8.pw.toml"
+hash = "638f7c447dbe7dc2e85e4bf89d70fb41632db940a57de498094f2be57fa6c18d"
+metafile = true
+
+[[files]]
+file = "mods/enderio.pw.toml"
+hash = "ab024d7c68f1f4297c0a76852897ffeb2d4c67fbd5ca314e3dc76100cd1e0922"
+metafile = true
+
+[[files]]
+file = "mods/extreme-reactors.pw.toml"
+hash = "40568e27bafdcd30606f25192bf1450dfb292b77cb7a3d9b47cf05b59bd8aa51"
+metafile = true
+
+[[files]]
+file = "mods/flux-networks.pw.toml"
+hash = "de63df967225278681e18afe0e323110322ec02006746980fbe77dbd974b20b3"
+metafile = true
+
+[[files]]
+file = "mods/functional-storage.pw.toml"
+hash = "286b367c1afbdaa94c69497ee5ca19734f91d8796f8c697535b506aeccf18aba"
+metafile = true
+
+[[files]]
+file = "mods/guideme.pw.toml"
+hash = "80bf4c39aea089a1ef4284fdd160a4283949ed921b4428551405c68c6a063974"
+metafile = true
+
+[[files]]
+file = "mods/immersive-engineering.pw.toml"
+hash = "6439c6f409308c4a89a12708b54cef41aa5382dc78e6f352b3e8005e96a21a8e"
+metafile = true
+
+[[files]]
+file = "mods/immersive-petroleum.pw.toml"
+hash = "334e597eaac9fa803b898b976ee6dff066c424ac343788bf055ac8ba20601d32"
+metafile = true
+
+[[files]]
+file = "mods/industrial-foregoing.pw.toml"
+hash = "63c8eef976a6e9938132f2577f16d285d08654ac316b6c1ce2889a2409d6632c"
+metafile = true
+
+[[files]]
+file = "mods/integrated-dynamics.pw.toml"
+hash = "ff1c7b84d294f31a59c4354a4d6b7c2e639d66992a08a20c2cf2da4dfb44c6d2"
+metafile = true
+
+[[files]]
+file = "mods/integrated-tunnels.pw.toml"
+hash = "89086c50cadcf6a15d69180481515d164808a372d204974483efb9b32c01fb15"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "42288125352861286cd9e31ddce8186709edc52c7fab3ba82e6c64716d4ef179"
 metafile = true
@@ -43,6 +128,16 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "1ff2d8ad68c4c66a92454a917ab0e383ac67872e56832bf80559a724c8845041"
+metafile = true
+
+[[files]]
+file = "mods/laserio.pw.toml"
+hash = "9d85a210e77661032cfbcd930059096be6cfb6afd9abedde21bcdfa4e5b25e54"
+metafile = true
+
+[[files]]
+file = "mods/mcjtylib.pw.toml"
+hash = "1deed13a1cb6eaedbbf400d5ac52a6f60bf09b9c6064f3d57a1d7c0da3c23b62"
 metafile = true
 
 [[files]]
@@ -56,11 +151,76 @@ hash = "39f4971b06139614f03993ffc73e3a1d39e061813690eb1edffe2215c148ffa7"
 metafile = true
 
 [[files]]
+file = "mods/pipez.pw.toml"
+hash = "36b5bf6dbe0178b0b46a31806653cfe9a811c5d1c133852a9a58ca1f7f8d9393"
+metafile = true
+
+[[files]]
+file = "mods/pneumaticcraft-repressurized.pw.toml"
+hash = "95fe963044531467e5c5b5e511ce0952572a62e19e363d92d0a2c826baa44457"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage-addons.pw.toml"
+hash = "3e32f49f3c57643bde66e53f023e9f83541d0a7e36a131ca06355324351cb041"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage.pw.toml"
+hash = "9a8bc01ac2c21bad372e5b7db21e6d6207c0e1f1d60d1481157a2131ad653a26"
+metafile = true
+
+[[files]]
+file = "mods/rftools-base.pw.toml"
+hash = "9f33ce001153c455c9a9406a51bfb3e176cf4cf49fe3b9c6da7363e6ef4f4728"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "35905f57cdb21a2aaa26345f2fabe3137ee2db6ee3bb2149cea206611b11ef69"
 metafile = true
 
 [[files]]
+file = "mods/storagedrawers.pw.toml"
+hash = "c6bb138b06728cce7030905266d2333cb9d75cb88e28035e776946923577c3f4"
+metafile = true
+
+[[files]]
 file = "mods/the-one-probe.pw.toml"
 hash = "efa0c67ad2b85494d075f5028ac3b95e621b65861355f41c039bf9830e4192ed"
+metafile = true
+
+[[files]]
+file = "mods/thermal-dynamics.pw.toml"
+hash = "5077218f5a137152465214a9a35544a617902a50145055fd4bcee4121462c57b"
+metafile = true
+
+[[files]]
+file = "mods/thermal-expansion.pw.toml"
+hash = "ea3ab41c8e1346c6b78afef0ba8a00b3409705b2eecae716883882f12956d90d"
+metafile = true
+
+[[files]]
+file = "mods/thermal-foundation.pw.toml"
+hash = "1fcb1bf91f4979cce47e56392cf9e3d30806bc0ff8aedc92b461272ecac8f8ca"
+metafile = true
+
+[[files]]
+file = "mods/thermal-innovation.pw.toml"
+hash = "46a13c3a5f47b1f55bb6d474d9986c75c0e25e60737f325d3699c63eca241c3b"
+metafile = true
+
+[[files]]
+file = "mods/titanium.pw.toml"
+hash = "0b65cd1a439326b6a81f453773722893e4eef1c065859e7a0f2935952f6e9cb3"
+metafile = true
+
+[[files]]
+file = "mods/xnet.pw.toml"
+hash = "02c552e168050cc2ede7f47103eca0de8639ea4d229a1ebb02913334f4621f42"
+metafile = true
+
+[[files]]
+file = "mods/zerocore.pw.toml"
+hash = "46eaae7e5edd7fc4169a3ecaee4f4b6f54edbf620232193531b1dbc7b34051dd"
 metafile = true

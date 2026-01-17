@@ -1,0 +1,13 @@
+name = "Integrated Tunnels"
+filename = "IntegratedTunnels-1.20.1-1.9.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Etqy1Omb/versions/RIczJDDC/IntegratedTunnels-1.20.1-1.9.3.jar"
+hash-format = "sha1"
+hash = "1bcdc7053be316434471e0382ba65f9c58c92eb9"
+
+[update]
+[update.modrinth]
+mod-id = "Etqy1Omb"
+version = "RIczJDDC"

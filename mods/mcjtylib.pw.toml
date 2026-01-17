@@ -1,0 +1,13 @@
+name = "McJtyLib"
+filename = "mcjtylib-1.20-8.0.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1Zu0uTEE/versions/pt0NR4gg/mcjtylib-1.20-8.0.7.jar"
+hash-format = "sha1"
+hash = "c8015fb3654b39d45ada16a60a64bd2350f8a736"
+
+[update]
+[update.modrinth]
+mod-id = "1Zu0uTEE"
+version = "pt0NR4gg"
