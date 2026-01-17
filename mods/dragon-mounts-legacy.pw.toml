@@ -1,0 +1,13 @@
+name = "Dragon Mounts: Legacy"
+filename = "dragonmounts-1.20.1-1.2.3-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/G3EPcczP/versions/NVLJuxL1/dragonmounts-1.20.1-1.2.3-beta.jar"
+hash-format = "sha1"
+hash = "85017dc6c3b6b0792be6f078f5d3a71d1667b93a"
+
+[update]
+[update.modrinth]
+mod-id = "G3EPcczP"
+version = "NVLJuxL1"

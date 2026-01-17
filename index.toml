@@ -11,6 +11,11 @@ hash = "68b5bdc002f32d6fb8b21b61b4131ebea7a437d716ecc463662e29edc24d1176"
 metafile = true
 
 [[files]]
+file = "mods/alexs-mobs.pw.toml"
+hash = "c107c014f7703badbf59958405f64b888a1b5a56e21d8092e204c851032c3a6e"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "0a1d5aeaae3975eaa4bb3a98e91852f797a5095794af70df41d50841c57ca347"
 metafile = true
@@ -46,6 +51,11 @@ hash = "19bbe8641daf35b912aaaf884e0632f677997eed0ce77b138668bf8a32ef9070"
 metafile = true
 
 [[files]]
+file = "mods/beautify.pw.toml"
+hash = "533dcc65650f9b8b92992e09913a4a86e5a96bc84c1dba176d7db5973d7247b1"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "45bfe44cb3208de7ce385b6a3e98251e7423c5aac8ebec9c13c752b75661d793"
 metafile = true
@@ -76,6 +86,11 @@ hash = "e3f5cac70db6f1fc6679a7220b677bd618a481cf6b2e37156966bbde2cedec2f"
 metafile = true
 
 [[files]]
+file = "mods/citadel.pw.toml"
+hash = "582a3395721aa482c2a1079d80a78dd59d1a174180c84cea2fad5b9899895770"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "5ac32407263c973bebc5aee61fe000d29d9879020fafb6631581396b64e55dfe"
 metafile = true
@@ -83,6 +98,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "fb8e035187556a9406507176782dd251769d8cdf14e9712b508bcc47ff6904d9"
+metafile = true
+
+[[files]]
+file = "mods/cluttered.pw.toml"
+hash = "025f5263b90ea477bdd0f43fb7a6438f9cb9c63c9b3648be9de84fb53ec6f242"
 metafile = true
 
 [[files]]
@@ -138,6 +158,11 @@ metafile = true
 [[files]]
 file = "mods/cyclops-core.pw.toml"
 hash = "a96f37497f8f48b02e8c61055c9ae8c2f3c363382463b406056c0c26e9fb3c66"
+metafile = true
+
+[[files]]
+file = "mods/dragon-mounts-legacy.pw.toml"
+hash = "65c7bf976b8ce97677f2a4939b6e92b16d8ba7cbe928ac402467fd6c5db9b0f8"
 metafile = true
 
 [[files]]
@@ -213,6 +238,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-petroleum.pw.toml"
 hash = "334e597eaac9fa803b898b976ee6dff066c424ac343788bf055ac8ba20601d32"
+metafile = true
+
+[[files]]
+file = "mods/immersive-vehicles.pw.toml"
+hash = "39d2062bdcf75c6e0142515f8c17f2d3372adb9790d806f48d7dccf44a6e944a"
 metafile = true
 
 [[files]]
@@ -326,8 +356,23 @@ hash = "ca1353c887a5d2cc1ade72bf20c8505a6c52f9e882190a9eca20933cf1096a60"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "f194a72e9609252b89d22d9ef89c948db7c6347a07759b9462c99abde9d6449b"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "ea7f91e66e1e475cd5fa10f56caa46a6a53754da99ed3252e6a6f68b731699b1"
+metafile = true
+
+[[files]]
+file = "mods/moving-elevators.pw.toml"
+hash = "4be4aa8f5a2e21ada879d8a7c523c9049831f816f09ae50f38a7f0f99e82a9e0"
+metafile = true
+
+[[files]]
+file = "mods/mowzies-mobs.pw.toml"
+hash = "35fbdf68195d1d15fa9ece62c7130df815767b330df117137f631885f9bafd0f"
 metafile = true
 
 [[files]]
@@ -353,6 +398,16 @@ metafile = true
 [[files]]
 file = "mods/pneumaticcraft-repressurized.pw.toml"
 hash = "95fe963044531467e5c5b5e511ce0952572a62e19e363d92d0a2c826baa44457"
+metafile = true
+
+[[files]]
+file = "mods/prehistoric-fauna.pw.toml"
+hash = "5df04fa03afee1ddb4b1c82973e75601a57d91a5d2cfb2d7d8c2253460322ca8"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "782e93dadc96d37803987d33c91155d7ad4be1bad1f9fda02d2c50dd29f7972a"
 metafile = true
 
 [[files]]
@@ -416,6 +471,26 @@ hash = "c6bb138b06728cce7030905266d2333cb9d75cb88e28035e776946923577c3f4"
 metafile = true
 
 [[files]]
+file = "mods/superb-warfare.pw.toml"
+hash = "a51e22ec8d505287779affa5fe61f5d510d5db8674965df9b2b156c7a9c5e330"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "fb0ec93bfbee412229b63a9154abc992ee7e274a84fe569e077f250e6c77abbd"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "0cf32029f4fb64d9aadf65bf229a0ba9dacfd2ecfdfdeda63688dcdef6db11f8"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "0329463d2dec464899b1c147542097262180548d72a0829577425af080ca0f1b"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "ea2e58a4de6dede94d982dd935753307a9a4f8c45e5920750e84d3db6faa1454"
 metafile = true
@@ -458,6 +533,11 @@ metafile = true
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "f4ee188c011337963dc95d3e3c6c76cbd6fccf90c533b09639b490a1129eb522"
+metafile = true
+
+[[files]]
+file = "mods/travelers-backpack.pw.toml"
+hash = "a9d272f08763cff9bd7fe9327affbb430d95dd060b1be6f8612a15ffd6247d3f"
 metafile = true
 
 [[files]]
@@ -508,4 +588,9 @@ metafile = true
 [[files]]
 file = "mods/zerocore.pw.toml"
 hash = "46eaae7e5edd7fc4169a3ecaee4f4b6f54edbf620232193531b1dbc7b34051dd"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "1a7189d50683a98fdbb73676dea312edd146d9fadf51a95875c9abab629acd78"
 metafile = true
