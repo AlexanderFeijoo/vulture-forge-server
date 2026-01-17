@@ -201,6 +201,11 @@ hash = "36b5bf6dbe0178b0b46a31806653cfe9a811c5d1c133852a9a58ca1f7f8d9393"
 metafile = true
 
 [[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "30484a8787dd30e579c7098b77d0c1d243044c7458828b87d8c81c92001717fa"
+metafile = true
+
+[[files]]
 file = "mods/pneumaticcraft-repressurized.pw.toml"
 hash = "95fe963044531467e5c5b5e511ce0952572a62e19e363d92d0a2c826baa44457"
 metafile = true
