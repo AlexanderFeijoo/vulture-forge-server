@@ -1,0 +1,13 @@
+name = "Wizard's Reborn"
+filename = "wizards_reborn-1.20.1-0.2.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/axZDcOCH/versions/mPxHSZLi/wizards_reborn-1.20.1-0.2.9.jar"
+hash-format = "sha1"
+hash = "203c0f173e3e7c2862437e3bae4ec00979f99df9"
+
+[update]
+[update.modrinth]
+mod-id = "axZDcOCH"
+version = "mPxHSZLi"

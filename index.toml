@@ -16,8 +16,28 @@ hash = "fa34a3117af7f8ed553ec563a7c90c1d6462184c7df5b837c831cb482c6ae582"
 metafile = true
 
 [[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "274849017dd2d71fdb582ad08cb3fca610ea0ad591e84e0e5b74cf10f3b8509f"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "19bbe8641daf35b912aaaf884e0632f677997eed0ce77b138668bf8a32ef9070"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "45bfe44cb3208de7ce385b6a3e98251e7423c5aac8ebec9c13c752b75661d793"
+metafile = true
+
+[[files]]
+file = "mods/blood-magic.pw.toml"
+hash = "feaceb0f48f0feedbbc31dc8d8a51e7e8a7d0becf5e358af2b2bc615bcb4d572"
+metafile = true
+
+[[files]]
+file = "mods/botania.pw.toml"
+hash = "39324cbbab83542e57c626bf4d7c95e40765191a7056e12bc6c651cb7ab3d36c"
 metafile = true
 
 [[files]]
@@ -66,6 +86,11 @@ hash = "a96f37497f8f48b02e8c61055c9ae8c2f3c363382463b406056c0c26e9fb3c66"
 metafile = true
 
 [[files]]
+file = "mods/eidolonrepraised.pw.toml"
+hash = "c5c3b4ad7a932e3f3f963dabd0f1557b9db845d17624f08e68910e1cc1c4997a"
+metafile = true
+
+[[files]]
 file = "mods/ender-storage-1-8.pw.toml"
 hash = "638f7c447dbe7dc2e85e4bf89d70fb41632db940a57de498094f2be57fa6c18d"
 metafile = true
@@ -81,6 +106,11 @@ hash = "40568e27bafdcd30606f25192bf1450dfb292b77cb7a3d9b47cf05b59bd8aa51"
 metafile = true
 
 [[files]]
+file = "mods/fluffy-fur.pw.toml"
+hash = "92d001bfbb7da2cadd96b2d67248ca80acb2941caccf335b488666b705ed7493"
+metafile = true
+
+[[files]]
 file = "mods/flux-networks.pw.toml"
 hash = "de63df967225278681e18afe0e323110322ec02006746980fbe77dbd974b20b3"
 metafile = true
@@ -93,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/guideme.pw.toml"
 hash = "80bf4c39aea089a1ef4284fdd160a4283949ed921b4428551405c68c6a063974"
+metafile = true
+
+[[files]]
+file = "mods/hexerei.pw.toml"
+hash = "1dcb5ab7de4d25cc31f68a0dfd4c3b9f4d9b28ea188620992e92475c6977124a"
 metafile = true
 
 [[files]]
@@ -121,6 +156,11 @@ hash = "89086c50cadcf6a15d69180481515d164808a372d204974483efb9b32c01fb15"
 metafile = true
 
 [[files]]
+file = "mods/irons-spells-n-spellbooks.pw.toml"
+hash = "bdb7d8a87aabfe199cf87e5822cafb990d336a6233ba606c8b281d967c77054b"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "42288125352861286cd9e31ddce8186709edc52c7fab3ba82e6c64716d4ef179"
 metafile = true
@@ -146,6 +186,11 @@ hash = "ea7f91e66e1e475cd5fa10f56caa46a6a53754da99ed3252e6a6f68b731699b1"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "38eb04b5ae4e429509e8c90fed921719d600166d9be12fcd4f263cce3b117c8a"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "39f4971b06139614f03993ffc73e3a1d39e061813690eb1edffe2215c148ffa7"
 metafile = true
@@ -168,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/refined-storage.pw.toml"
 hash = "9a8bc01ac2c21bad372e5b7db21e6d6207c0e1f1d60d1481157a2131ad653a26"
+metafile = true
+
+[[files]]
+file = "mods/reliquary-reincarnations.pw.toml"
+hash = "47488a6562c760f1964eabb1a3ad962592c29ef2e193f1557c0eded583790e72"
 metafile = true
 
 [[files]]
@@ -213,6 +263,16 @@ metafile = true
 [[files]]
 file = "mods/titanium.pw.toml"
 hash = "0b65cd1a439326b6a81f453773722893e4eef1c065859e7a0f2935952f6e9cb3"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "cb53ef0c51fc357ab985ca5087c7278f8b906d428c9a464774e58f3340475b88"
+metafile = true
+
+[[files]]
+file = "mods/wizards-reborn.pw.toml"
+hash = "1447b5923e132948ed29bf9ce3e8536ba6d23eae53771c8b8ea955edbf184b36"
 metafile = true
 
 [[files]]
