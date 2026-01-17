@@ -121,6 +121,11 @@ hash = "286b367c1afbdaa94c69497ee5ca19734f91d8796f8c697535b506aeccf18aba"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "ac86fef725713ab9086d46a024cb98381b6bbf9188ac69a2a758a73182731702"
+metafile = true
+
+[[files]]
 file = "mods/guideme.pw.toml"
 hash = "80bf4c39aea089a1ef4284fdd160a4283949ed921b4428551405c68c6a063974"
 metafile = true
