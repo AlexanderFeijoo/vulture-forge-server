@@ -531,11 +531,6 @@ hash = "782e93dadc96d37803987d33c91155d7ad4be1bad1f9fda02d2c50dd29f7972a"
 metafile = true
 
 [[files]]
-file = "mods/randall-agriculture-pack.pw.toml"
-hash = "a7cdfb499bea5e4dc839624a35a4c6e80959ee7905d45b98b653b5c27d9bb031"
-metafile = true
-
-[[files]]
 file = "mods/refined-storage-addons.pw.toml"
 hash = "3e32f49f3c57643bde66e53f023e9f83541d0a7e36a131ca06355324351cb041"
 metafile = true
