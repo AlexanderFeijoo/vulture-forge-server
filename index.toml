@@ -196,11 +196,6 @@ hash = "d25ada163cbf92d6e8ad0532dd865e3be566a6302a190b849d3741bda318b012"
 metafile = true
 
 [[files]]
-file = "mods/cucumber.pw.toml"
-hash = "c032bbba223a23920feb9f5cb62be236fc08a9e23138c413de12765359c3d51b"
-metafile = true
-
-[[files]]
 file = "mods/curios.pw.toml"
 hash = "c1fb4b35943ed603eaaa2999ec0faa3d22a5ea2a95f7ef1b0cd0eae83c945bae"
 metafile = true
@@ -478,11 +473,6 @@ metafile = true
 [[files]]
 file = "mods/mts-iv-official-automobile-pack.pw.toml"
 hash = "ac133f7f88f1c76b02318a19486e9274f4e7a6a725d3e81f19ba1d1adf332252"
-metafile = true
-
-[[files]]
-file = "mods/mystical-agriculture.pw.toml"
-hash = "f17b25442d66eef82b29038828934d27cdc3ab8aad0d6dfd24a1e2f49026e8a6"
 metafile = true
 
 [[files]]
