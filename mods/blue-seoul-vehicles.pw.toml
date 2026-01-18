@@ -1,0 +1,13 @@
+name = "Blue Seoul Vehicles"
+filename = "blueseoul_garam_v4.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "91c6ebf418ae7952a3ae942e7be148de3cb6b44b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7473796
+project-id = 978100

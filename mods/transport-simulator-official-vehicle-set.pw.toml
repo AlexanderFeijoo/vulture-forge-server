@@ -1,0 +1,13 @@
+name = "Immersive Vehicles (MTS/IV) - Official Content Pack - [OCP]"
+filename = "MTS Official Pack-1.20.1-V28.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "30ded8b8c1e7678be1f9db73d9366391ca198497"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7034832
+project-id = 292217

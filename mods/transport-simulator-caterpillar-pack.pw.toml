@@ -1,0 +1,13 @@
+name = "Immersive Vehicles - Caterpillar Pack"
+filename = "1.20.1_mts_caterpillar_pack-pre-2.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "14d20b8394f5ed50a02574b721bdef9111309624"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7351301
+project-id = 307271

@@ -1,0 +1,13 @@
+name = "Kadwin Jurassic Park Vehicles Pack [MTS/IV]"
+filename = "Kadwin JP Vehicles Pack [MTS] 1.16.5-5.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4d62b6124091f887090d69d04fa1143714dbc140"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6893820
+project-id = 387208

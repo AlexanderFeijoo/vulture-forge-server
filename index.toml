@@ -11,6 +11,11 @@ hash = "68b5bdc002f32d6fb8b21b61b4131ebea7a437d716ecc463662e29edc24d1176"
 metafile = true
 
 [[files]]
+file = "mods/aero-industries.pw.toml"
+hash = "ae5945d3df9621b600f30abe3113ed1c49135c4755c440f8d718a8f3dc52f994"
+metafile = true
+
+[[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "c107c014f7703badbf59958405f64b888a1b5a56e21d8092e204c851032c3a6e"
 metafile = true
@@ -76,6 +81,11 @@ hash = "feaceb0f48f0feedbbc31dc8d8a51e7e8a7d0becf5e358af2b2bc615bcb4d572"
 metafile = true
 
 [[files]]
+file = "mods/blue-seoul-vehicles.pw.toml"
+hash = "3a5f169c76691e8b49a7f0daf4539d21997d0d6060219eb7641af1c26b8993ba"
+metafile = true
+
+[[files]]
 file = "mods/botania.pw.toml"
 hash = "39324cbbab83542e57c626bf4d7c95e40765191a7056e12bc6c651cb7ab3d36c"
 metafile = true
@@ -88,6 +98,11 @@ metafile = true
 [[files]]
 file = "mods/chipped.pw.toml"
 hash = "e3f5cac70db6f1fc6679a7220b677bd618a481cf6b2e37156966bbde2cedec2f"
+metafile = true
+
+[[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "e021094b099a1a1b97e19820126f52fb9032281c3c9236e058c48c419ae96382"
 metafile = true
 
 [[files]]
@@ -256,6 +271,11 @@ hash = "6439c6f409308c4a89a12708b54cef41aa5382dc78e6f352b3e8005e96a21a8e"
 metafile = true
 
 [[files]]
+file = "mods/immersive-flight-simulator-ifs-immersive-vehicles.pw.toml"
+hash = "633cf2adce63e959254f43c55a77e34be0ceb6f92b4dcb4b9c4afc0d7eec888d"
+metafile = true
+
+[[files]]
 file = "mods/immersive-petroleum.pw.toml"
 hash = "334e597eaac9fa803b898b976ee6dff066c424ac343788bf055ac8ba20601d32"
 metafile = true
@@ -298,6 +318,11 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "1ff2d8ad68c4c66a92454a917ab0e383ac67872e56832bf80559a724c8845041"
+metafile = true
+
+[[files]]
+file = "mods/kadwin-jurassic-park-vehicles-pack-mts-iv.pw.toml"
+hash = "514249ec85f49f436fd3c5c39464460f995142f3510d021e5fb02718bbccd0b9"
 metafile = true
 
 [[files]]
@@ -376,6 +401,11 @@ hash = "ca1353c887a5d2cc1ade72bf20c8505a6c52f9e882190a9eca20933cf1096a60"
 metafile = true
 
 [[files]]
+file = "mods/minecraft-transport-simulator.pw.toml"
+hash = "c9ae91bcabacc757aa697660d26f05b85fbed24f24c635710c7d6c3cb64924ae"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "f54c3a76129d13a9c8a0845b1261ee9fdbfd9e98c32814d1f19334cd0174c5f3"
 metafile = true
@@ -398,6 +428,11 @@ metafile = true
 [[files]]
 file = "mods/mowzies-mobs.pw.toml"
 hash = "35fbdf68195d1d15fa9ece62c7130df815767b330df117137f631885f9bafd0f"
+metafile = true
+
+[[files]]
+file = "mods/mts-iv-official-automobile-pack.pw.toml"
+hash = "ac133f7f88f1c76b02318a19486e9274f4e7a6a725d3e81f19ba1d1adf332252"
 metafile = true
 
 [[files]]
@@ -436,6 +471,11 @@ hash = "782e93dadc96d37803987d33c91155d7ad4be1bad1f9fda02d2c50dd29f7972a"
 metafile = true
 
 [[files]]
+file = "mods/randall-agriculture-pack.pw.toml"
+hash = "a7cdfb499bea5e4dc839624a35a4c6e80959ee7905d45b98b653b5c27d9bb031"
+metafile = true
+
+[[files]]
 file = "mods/refined-storage-addons.pw.toml"
 hash = "3e32f49f3c57643bde66e53f023e9f83541d0a7e36a131ca06355324351cb041"
 metafile = true
@@ -468,6 +508,11 @@ metafile = true
 [[files]]
 file = "mods/rftools-base.pw.toml"
 hash = "9f33ce001153c455c9a9406a51bfb3e176cf4cf49fe3b9c6da7363e6ef4f4728"
+metafile = true
+
+[[files]]
+file = "mods/rftools-builder.pw.toml"
+hash = "f7b999fc9b7f559699fe716cfc98b6edd8e37098e2d1c9fbf56f0755575dbba3"
 metafile = true
 
 [[files]]
@@ -561,6 +606,16 @@ hash = "f4ee188c011337963dc95d3e3c6c76cbd6fccf90c533b09639b490a1129eb522"
 metafile = true
 
 [[files]]
+file = "mods/transport-simulator-caterpillar-pack.pw.toml"
+hash = "2a548af6949bf48c40c0cc5fa821b2040ceed43d2f9b73dd6c3a9707a7ce278d"
+metafile = true
+
+[[files]]
+file = "mods/transport-simulator-official-vehicle-set.pw.toml"
+hash = "70e3f044e97ac4eefca113fa888fde8bb0e341481f7fb539c69153baa55bc88d"
+metafile = true
+
+[[files]]
 file = "mods/travelers-backpack.pw.toml"
 hash = "a9d272f08763cff9bd7fe9327affbb430d95dd060b1be6f8612a15ffd6247d3f"
 metafile = true
@@ -568,6 +623,11 @@ metafile = true
 [[files]]
 file = "mods/trenzalore.pw.toml"
 hash = "c66abcf408ad2d6ffe3fe7b2db9fc08ec2540896011047a58394d467669eef9c"
+metafile = true
+
+[[files]]
+file = "mods/unu-parts-pack.pw.toml"
+hash = "81e8b4f0b328134982bf1d27721048ea0451368227ec17d27c8c93ee8a848645"
 metafile = true
 
 [[files]]

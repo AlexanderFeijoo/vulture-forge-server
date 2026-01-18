@@ -1,0 +1,13 @@
+name = "[MTS/IV] Aero Industries - The Corporation "
+filename = "AeroIndustries-1.16.5+-v1Release_liveryfix.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3c2342596f1a826be9b967e9b28346496b73490d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7340969
+project-id = 1326201
