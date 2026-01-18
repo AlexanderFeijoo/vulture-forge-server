@@ -536,6 +536,11 @@ hash = "35905f57cdb21a2aaa26345f2fabe3137ee2db6ee3bb2149cea206611b11ef69"
 metafile = true
 
 [[files]]
+file = "mods/small-ships.pw.toml"
+hash = "326bff4bd6ad0f319a87397dacbb90ff312516c168f877dcdb4cdcc32f0ad696"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "32a738840ff11a9001729daf2e62abb48175fd62cd8879bb14b58c69787417d2"
 metafile = true
