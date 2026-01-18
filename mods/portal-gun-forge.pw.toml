@@ -1,0 +1,13 @@
+name = "Portal Gun [Forge]"
+filename = "portal_gun_mod_1-20-1_Forge_alpha-0.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/b63BAG6u/versions/UBoCGicj/portal_gun_mod_1-20-1_Forge_alpha-0.1.1.jar"
+hash-format = "sha1"
+hash = "d0207221bbc79e64f09e9bf13c6a8d1a813faa6f"
+
+[update]
+[update.modrinth]
+mod-id = "b63BAG6u"
+version = "UBoCGicj"

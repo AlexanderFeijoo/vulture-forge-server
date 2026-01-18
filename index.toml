@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/ad-astra.pw.toml"
+hash = "145b382d93c2671ba400140a7268d422d081a795c2d15869460edb4dfc452f7d"
+metafile = true
+
+[[files]]
 file = "mods/adorabuild-structures.pw.toml"
 hash = "1d1fd17a17394314412f1a751343059a679c9014326d73e83125fe457103deda"
 metafile = true
@@ -33,6 +38,11 @@ metafile = true
 [[files]]
 file = "mods/aquaculture.pw.toml"
 hash = "ad38c000ff0466f040b4a057ef45dc40f50ae747f7af43da64662efaa105896b"
+metafile = true
+
+[[files]]
+file = "mods/aquamirae.pw.toml"
+hash = "6a9320858e8a876062f9beefcd9c9c8f12391a1d74eee63774c075e62dd157e4"
 metafile = true
 
 [[files]]
@@ -88,6 +98,16 @@ metafile = true
 [[files]]
 file = "mods/botania.pw.toml"
 hash = "39324cbbab83542e57c626bf4d7c95e40765191a7056e12bc6c651cb7ab3d36c"
+metafile = true
+
+[[files]]
+file = "mods/botarium.pw.toml"
+hash = "15f70ccb7c7b0ff27ec791788d24de00fc6f6715311644b0fe374f006c9f230e"
+metafile = true
+
+[[files]]
+file = "mods/bountiful.pw.toml"
+hash = "1776e02ca3613682867cc87bd40347e517ece531217222b49af635c3c80da1ff"
 metafile = true
 
 [[files]]
@@ -171,6 +191,16 @@ hash = "bc0017505ea4103e3ccb7e08589fa982059600ffb87ec3a7ba7ad39073693fc9"
 metafile = true
 
 [[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "d25ada163cbf92d6e8ad0532dd865e3be566a6302a190b849d3741bda318b012"
+metafile = true
+
+[[files]]
+file = "mods/cucumber.pw.toml"
+hash = "c032bbba223a23920feb9f5cb62be236fc08a9e23138c413de12765359c3d51b"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "c1fb4b35943ed603eaaa2999ec0faa3d22a5ea2a95f7ef1b0cd0eae83c945bae"
 metafile = true
@@ -208,6 +238,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "0b2a1719c0470efdf7d5674df5b665183f927c90d00b579e3a1eb27024f31570"
+metafile = true
+
+[[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "cf35640e350078e8cd7b29f727c3227aeb0b465f0fba9a266e6cbe15dadc4955"
 metafile = true
 
 [[files]]
@@ -326,6 +361,16 @@ hash = "514249ec85f49f436fd3c5c39464460f995142f3510d021e5fb02718bbccd0b9"
 metafile = true
 
 [[files]]
+file = "mods/kambrik.pw.toml"
+hash = "02d62680362984af051a1fa301c4f3f7c36037f0253f96187ad4016e04907961"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "1ebe3280f7a3f385898ea7c0398d0cf16ad977084771d01e13677b78304604f6"
+metafile = true
+
+[[files]]
 file = "mods/laserio.pw.toml"
 hash = "9d85a210e77661032cfbcd930059096be6cfb6afd9abedde21bcdfa4e5b25e54"
 metafile = true
@@ -436,8 +481,18 @@ hash = "ac133f7f88f1c76b02318a19486e9274f4e7a6a725d3e81f19ba1d1adf332252"
 metafile = true
 
 [[files]]
+file = "mods/mystical-agriculture.pw.toml"
+hash = "f17b25442d66eef82b29038828934d27cdc3ab8aad0d6dfd24a1e2f49026e8a6"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "38eb04b5ae4e429509e8c90fed921719d600166d9be12fcd4f263cce3b117c8a"
+metafile = true
+
+[[files]]
+file = "mods/obscure-api.pw.toml"
+hash = "750e0dfd01d439874c7bdf8d10f3ed1750c6cd6fc93986734535063fc9631856"
 metafile = true
 
 [[files]]
@@ -458,6 +513,11 @@ metafile = true
 [[files]]
 file = "mods/pneumaticcraft-repressurized.pw.toml"
 hash = "95fe963044531467e5c5b5e511ce0952572a62e19e363d92d0a2c826baa44457"
+metafile = true
+
+[[files]]
+file = "mods/portal-gun-forge.pw.toml"
+hash = "e9b78b5ae2c2aa10e421260bdf9ab6a157dbf906609b58fc53e578468dc74cb2"
 metafile = true
 
 [[files]]
@@ -498,6 +558,11 @@ metafile = true
 [[files]]
 file = "mods/repurposed-structures-forge.pw.toml"
 hash = "07a90d4335a3b4ddcae59619fd15c34d9026bb57a5db21fc074fd66132bf9fae"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "6c7fad08ba7d394ff9b5ddeff53bd54c8438f04811d6cd6bf89a6cad70fe7f56"
 metafile = true
 
 [[files]]
