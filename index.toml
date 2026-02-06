@@ -698,7 +698,3 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "1a7189d50683a98fdbb73676dea312edd146d9fadf51a95875c9abab629acd78"
 metafile = true
-
-[[files]]
-file = "nul"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
