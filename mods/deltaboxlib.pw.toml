@@ -1,0 +1,13 @@
+name = "Deltabox Lib"
+filename = "deltaboxlib-forge-2.2.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FDGHOWuC/versions/vpF66nb3/deltaboxlib-forge-2.2.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "8f5cd619b02eaccd936cc6a3e1e47fe558a728b7"
+
+[update]
+[update.modrinth]
+mod-id = "FDGHOWuC"
+version = "vpF66nb3"
