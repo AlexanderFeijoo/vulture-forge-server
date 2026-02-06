@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "82d6ab8c5f4f3bd40f533948b9ffca2e659aa36af5c99e51d664952e48f9d12f"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "145b382d93c2671ba400140a7268d422d081a795c2d15869460edb4dfc452f7d"
 metafile = true
@@ -446,6 +450,11 @@ hash = "38eb04b5ae4e429509e8c90fed921719d600166d9be12fcd4f263cce3b117c8a"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "14f46c9378185c8c39fb15f48b35e4567445326322da834440f45830aea8214a"
+metafile = true
+
+[[files]]
 file = "mods/obscure-api.pw.toml"
 hash = "750e0dfd01d439874c7bdf8d10f3ed1750c6cd6fc93986734535063fc9631856"
 metafile = true
@@ -689,3 +698,7 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "1a7189d50683a98fdbb73676dea312edd146d9fadf51a95875c9abab629acd78"
 metafile = true
+
+[[files]]
+file = "nul"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
