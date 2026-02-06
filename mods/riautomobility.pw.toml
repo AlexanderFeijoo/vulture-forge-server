@@ -1,0 +1,13 @@
+name = "RIAutomobility (Automobility Addon)"
+filename = "riautomobility-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WpWgHZgq/versions/LsmYXocV/riautomobility-1.0.2.jar"
+hash-format = "sha1"
+hash = "103bcf79e341d490c9e6f6346e58961fa7e4ceda"
+
+[update]
+[update.modrinth]
+mod-id = "WpWgHZgq"
+version = "LsmYXocV"

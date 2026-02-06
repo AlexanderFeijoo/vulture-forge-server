@@ -1,0 +1,13 @@
+name = "MoreMobility"
+filename = "moremobility-0.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wdAah5q7/versions/Yg6avQzz/moremobility-0.1.2.jar"
+hash-format = "sha1"
+hash = "c7b58fb159a8af93a0d584caa9b3ef3743dd3f4e"
+
+[update]
+[update.modrinth]
+mod-id = "wdAah5q7"
+version = "Yg6avQzz"

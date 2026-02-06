@@ -1,0 +1,13 @@
+name = "Immersive Aircraft"
+filename = "immersive_aircraft-1.4.0+1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/x3HZvrj6/versions/jPZ0GRsN/immersive_aircraft-1.4.0%2B1.20.1-forge.jar"
+hash-format = "sha1"
+hash = "64e6c792c5208005ee6b099e8fb7d2738873737d"
+
+[update]
+[update.modrinth]
+mod-id = "x3HZvrj6"
+version = "jPZ0GRsN"

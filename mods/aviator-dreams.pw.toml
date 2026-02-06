@@ -1,0 +1,13 @@
+name = "Aviator Dreams"
+filename = "Aviator Dreams 2.0.1-2 1.20.1-Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VPQwbMgx/versions/auFIj0I6/Aviator%20Dreams%202.0.1-2%201.20.1-Forge.jar"
+hash-format = "sha1"
+hash = "6984d09916b29bca472d16e57d5f2cfbb95295f8"
+
+[update]
+[update.modrinth]
+mod-id = "VPQwbMgx"
+version = "auFIj0I6"
