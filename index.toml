@@ -16,7 +16,7 @@ metafile = true
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
-hash = "99c133b256051ff18ab958384ddec7f20f424a8fadb6d8087687dbb2972b6094"
+hash = "1a9bd7985585661c7ef07344cc5b3550e880ef4f1915ffe567963e8b56f93768"
 metafile = true
 
 [[files]]
@@ -26,7 +26,7 @@ metafile = true
 
 [[files]]
 file = "mods/aether.pw.toml"
-hash = "4e27b10cc8ada0473b40106d15d72504f8da2511c6e7ee1f60b08948d33cd725"
+hash = "c832b5e6b481dfd945f18fb7e650941258c8b539823448684de6da321e595381"
 metafile = true
 
 [[files]]
@@ -76,17 +76,17 @@ metafile = true
 
 [[files]]
 file = "mods/attributefix.pw.toml"
-hash = "ecdd4372e076170c6b3bc4665dfdc5dac60292aaac013c7f95305b43e8916495"
+hash = "b4aeaed3c7c1474a45899c4f85ea579336089c8cdc5528f9b5b1d4b6a46dfa1e"
 metafile = true
 
 [[files]]
 file = "mods/automobility.pw.toml"
-hash = "0b50aa5e55bf2bea86e660f15167e96e2045ba3e355cbfad6006a221b1ad0a3e"
+hash = "cc6180e3e16496b582d7624963bbd5aacd6285fdbce6a639b2d8914d380970dd"
 metafile = true
 
 [[files]]
 file = "mods/aviator-dreams.pw.toml"
-hash = "93ded19c1ba439b15847d27995bb2760d951497f20493d2156d5fbc8029da2b8"
+hash = "ae0f73133d88359cc5e1e665cf3f339772b6bc0fd711b53260c78ef3b1381f1e"
 metafile = true
 
 [[files]]
@@ -136,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "b0c73ff7efc3ccb36930e9b39d01625fde44240b6c0d83a8468003867c49983a"
+hash = "50a84aed6cae4c442bfb041d20ae9560d0f465b1d7da5e65bef93daf32429912"
 metafile = true
 
 [[files]]
@@ -231,12 +231,12 @@ metafile = true
 
 [[files]]
 file = "mods/deltaboxlib.pw.toml"
-hash = "ec418e0529fdc867ed219bed9da740cf861caae2af29c7e9eda2c0636708ee02"
+hash = "c5594e647eb1e129b2f46d81b582c0e2fdd233df6f78a0e9af84d38b7e3a991e"
 metafile = true
 
 [[files]]
 file = "mods/densefuel.pw.toml"
-hash = "71d0d31333584800b5e32cd7de4fb2596c028b3df49e738b826024323cf02205"
+hash = "e206b6561a4889ab502a7dcd25ff649d63a3db969ec709d11197a0eb3a6e9060"
 metafile = true
 
 [[files]]
@@ -326,7 +326,7 @@ metafile = true
 
 [[files]]
 file = "mods/handcrafted.pw.toml"
-hash = "2143dc055ae837c6a4de5da8dd228cacf73dbe872a5c603a28f5e623e22ea5e6"
+hash = "e4834a24376383fccf00c051a67ba679c800d9316204a4352a67ebeaf9c07add"
 metafile = true
 
 [[files]]
@@ -336,17 +336,17 @@ metafile = true
 
 [[files]]
 file = "mods/ia_engines.pw.toml"
-hash = "a3f3937797c12a6486c442d3e6dd8cd0d4305f47c197e520135bf812a53683de"
+hash = "e31c536e06ff12af9674faee31642c1df2f1d13e721054353a226d5c2306a78c"
 metafile = true
 
 [[files]]
 file = "mods/iceberg.pw.toml"
-hash = "d3ff93cfc3c3e3d2e805ababa25afb90cc46ff6bd90579e697bab3ff5f8e4d31"
+hash = "ec8713b74624688ef5d919382a87dfae752e86bedbcbd987c98b2eb88f79af8a"
 metafile = true
 
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
-hash = "f237e37eca85448f9de3369e5bd49d8626f3c2e511a2c3d0644f0635c0db4341"
+hash = "d4fd44c807ba7ab47cf751481badb3f094d5ff1d858787a9b51f40645daf1ca5"
 metafile = true
 
 [[files]]
@@ -356,7 +356,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-melodies.pw.toml"
-hash = "4a4f7bee156a600303fb17f316257c7258be96be53f5b3917302e3c87c468de5"
+hash = "6d599db84a9b84535d6f59d713e408de746b02eb4c3663f46c2b7b219d054494"
 metafile = true
 
 [[files]]
@@ -412,6 +412,11 @@ metafile = true
 [[files]]
 file = "mods/laserio.pw.toml"
 hash = "9d85a210e77661032cfbcd930059096be6cfb6afd9abedde21bcdfa4e5b25e54"
+metafile = true
+
+[[files]]
+file = "mods/lost-cities-modern-tweaks.pw.toml"
+hash = "040fbe1ae0242c3f4d91dc964b88a71c49e4ea2783efba51c4374ab30cc5fe72"
 metafile = true
 
 [[files]]
@@ -476,7 +481,7 @@ metafile = true
 
 [[files]]
 file = "mods/man-of-many-planes.pw.toml"
-hash = "27902f2462e8896eec209ee8731803db5885ab31bce4cb12d50ad28d8230a6c3"
+hash = "89aacb7d916640dbf97655287eb1139e42e7cb9b566265b61a831d635381b6c8"
 metafile = true
 
 [[files]]
@@ -486,7 +491,7 @@ metafile = true
 
 [[files]]
 file = "mods/medieval-buildings.pw.toml"
-hash = "e6196fcdd0609bcf8d5037b7141bd406934f6f9979c09e5ff8b90c7f57521da8"
+hash = "857d96db0dcf2be503becf33b87af9836ef41a08a848de510c5b619bce1a2829"
 metafile = true
 
 [[files]]
@@ -506,7 +511,7 @@ metafile = true
 
 [[files]]
 file = "mods/moremobility.pw.toml"
-hash = "cc3eb791a89fb8da16f8e61d1217f68c2c97c00ca5fc7377aa512e033be60a90"
+hash = "07e191cfb99f2e8f91b2fa6dfca863053436ca7a4dd8750d736528751143e73e"
 metafile = true
 
 [[files]]
@@ -526,12 +531,12 @@ metafile = true
 
 [[files]]
 file = "mods/musicbox.pw.toml"
-hash = "6d218edbcd17b63b6bdd0e3dcd0d20fcb0119b7fccda9776873550b3ad769992"
+hash = "e5b4c1fe74f6e5c1a05491b194351304a00fe973b9808edaedb1511502efcaad"
 metafile = true
 
 [[files]]
 file = "mods/naturalist.pw.toml"
-hash = "6d4f0a1b92558feb8f776ceed3faca1e883cbfecab34de882551137a77124c93"
+hash = "7081c2782b46907a376185c0e0c43fdcd83e522b8272fe7437e54406240590e4"
 metafile = true
 
 [[files]]
@@ -541,7 +546,7 @@ metafile = true
 
 [[files]]
 file = "mods/neat.pw.toml"
-hash = "8f844094f7e6394e3e6f61a0b883fa0a69805cf8b8020163d0fd37489415ef94"
+hash = "789499c157a9cdf03113b6508d10798f482d41829db72e64b496c4bba935204e"
 metafile = true
 
 [[files]]
@@ -561,7 +566,7 @@ metafile = true
 
 [[files]]
 file = "mods/pick-up-notifier.pw.toml"
-hash = "75adf9b1f879a4087d6e918bf15fe65d162a1b97164d3543d31f4e3413a1e2a5"
+hash = "482eee837e2771d9094192713c481818f0b3d478e95fc69c890eeb5f7b0ee634"
 metafile = true
 
 [[files]]
@@ -596,7 +601,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "910ff4db4838e034b3d792205de05aabb88558a5093cfa1a6f37efb02406ddb0"
+hash = "f5021492d4db1b6c17158dcd1a23b2b58ee1f60824ef93eda60719209a93ad06"
 metafile = true
 
 [[files]]
@@ -651,7 +656,7 @@ metafile = true
 
 [[files]]
 file = "mods/riautomobility.pw.toml"
-hash = "6471c7b84babd904153c7d845b39c1c08911d42b72aceb498bc0398da6f2d611"
+hash = "a5c85767e0b26f20bca741dcb2e9134cf3154b2a005b95520972aca599faf2ab"
 metafile = true
 
 [[files]]
@@ -711,7 +716,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-lost-cities.pw.toml"
-hash = "9006645b856cbf04bc4b62cae9e2257871e5137a877556527bf81312602cfba0"
+hash = "f6fd21011a465488a99b72abbdb5d0f0aaae807facdaaa170350b38af3ef7110"
 metafile = true
 
 [[files]]
@@ -761,7 +766,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelers-titles.pw.toml"
-hash = "43284a55e537cb96d28160cdadab96dfd2ed3712529cc546a1c03313dd99eb46"
+hash = "ee1c64ae40bba6e044710a9d4d7ddd45419b34d53ce839908acbf7911dafceb7"
 metafile = true
 
 [[files]]
@@ -771,7 +776,7 @@ metafile = true
 
 [[files]]
 file = "mods/warfare-wings.pw.toml"
-hash = "d9f5a11bf39c329168d0b0503c8590ca82d8897ca1234a7d87d148bae990687a"
+hash = "6de56b9496b54d5174a4a26fe4eb0818db0968d4b4b8b1cbdeab57a21b898abd"
 metafile = true
 
 [[files]]
