@@ -70,6 +70,11 @@ hash = "8c275bfba20fdbe766b00fa5bc5a713affb82554f411468838a001b21c00fced"
 metafile = true
 
 [[files]]
+file = "mods/ashvehicle.pw.toml"
+hash = "b8e55206ad4cddc11802964d0c14d6a5310308bd04cfd22b468561ba0e6b9b86"
+metafile = true
+
+[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "0700d17f36cd6b256bc65d30c79068d2627faacc7d6a601140445740c8960743"
 metafile = true
@@ -416,7 +421,7 @@ metafile = true
 
 [[files]]
 file = "mods/lost-cities-modern-tweaks.pw.toml"
-hash = "040fbe1ae0242c3f4d91dc964b88a71c49e4ea2783efba51c4374ab30cc5fe72"
+hash = "93d29f695d004628b85ce4d49b05bd27062291ad3fa5b48fa7d9b7a0ed40dda9"
 metafile = true
 
 [[files]]
@@ -657,6 +662,21 @@ metafile = true
 [[files]]
 file = "mods/riautomobility.pw.toml"
 hash = "a5c85767e0b26f20bca741dcb2e9134cf3154b2a005b95520972aca599faf2ab"
+metafile = true
+
+[[files]]
+file = "mods/sbw-colorized!.pw.toml"
+hash = "65d6e973699abd553f22eca244340bea44fdc31ced159eab79e09bfaf9196349"
+metafile = true
+
+[[files]]
+file = "mods/sbw-wrecked!.pw.toml"
+hash = "a37f5707a1ba0fedefbff913b2f8ac00f3f0c244d5c63529d1c955a5b20d8a61"
+metafile = true
+
+[[files]]
+file = "mods/scuba-gear.pw.toml"
+hash = "e897b5eae2b23ef30b84d4c2981c8de7d26fe48babab75fce969f24c0fb7f021"
 metafile = true
 
 [[files]]
