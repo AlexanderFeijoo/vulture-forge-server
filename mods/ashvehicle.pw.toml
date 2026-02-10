@@ -1,0 +1,13 @@
+name = "AshVehicle"
+filename = "ashvehicle-4.3-8.8-SNAPSHOT.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/j7CRHkQ6/versions/h12wuHsd/ashvehicle-4.3-8.8-SNAPSHOT.jar"
+hash-format = "sha1"
+hash = "f6d6a05941af21d5335aafbb9431e076ee294786"
+
+[update]
+[update.modrinth]
+mod-id = "j7CRHkQ6"
+version = "h12wuHsd"

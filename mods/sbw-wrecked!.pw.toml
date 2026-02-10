@@ -1,0 +1,13 @@
+name = "[SBW] Wrecked!"
+filename = "Wrecked-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lm68uWrO/versions/3a6Fk4AA/Wrecked-1.1.2.jar"
+hash-format = "sha1"
+hash = "10d9af298933ff384b0378bea14a3d30855290ba"
+
+[update]
+[update.modrinth]
+mod-id = "lm68uWrO"
+version = "3a6Fk4AA"
