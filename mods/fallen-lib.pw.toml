@@ -1,0 +1,13 @@
+name = "Fallen Lib"
+filename = "fallen_lib-1.2.0-hotfix.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "38466a73d2952beb6c7512e0cf0f2ee8132255dc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7421975
+project-id = 1404737

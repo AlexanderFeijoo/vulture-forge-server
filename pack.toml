@@ -1,12 +1,12 @@
 name = "Uncle Al's Fat Stash"
 author = "Pulp Star"
-version = "0.17.0"
+version = "0.18.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "990e7e3afca9c27638030e1edce30214e5c382f9c64c6a2c59ba8669031d6ae4"
+hash = "7bf4210bac882020dbf4d83a9f53d991734c6c692681c6c854b199025abcf44c"
 
 [versions]
 forge = "47.4.15"

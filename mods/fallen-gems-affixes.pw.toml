@@ -1,0 +1,13 @@
+name = "Fallen Gems & Affixes"
+filename = "fallen_gems_affixes-1.20.1-2.0.0HF.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ae6b0a43513c15e779ab852705924445a3c040ff"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7627270
+project-id = 1286177

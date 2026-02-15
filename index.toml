@@ -40,6 +40,21 @@ hash = "f140873886bf8e44242b63afaadbc8ed451ca83af6b829beab6d55d0eaed3106"
 metafile = true
 
 [[files]]
+file = "mods/apotheosis.pw.toml"
+hash = "c281ef574be46e4df3f7ed04b0a4b5f6d1b2a836b7d1d94c4a30be9c85d3adcb"
+metafile = true
+
+[[files]]
+file = "mods/apotheotic-additions.pw.toml"
+hash = "0fad8186fbeb910463e8b34629543c8d15c68baaa558b1501ccdc3caf15abeed"
+metafile = true
+
+[[files]]
+file = "mods/apothic-attributes.pw.toml"
+hash = "5f3996f32795f87086cd2e34ac1d7cc281411fe0c8799cb589706680107171ee"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "0a1d5aeaae3975eaa4bb3a98e91852f797a5095794af70df41d50841c57ca347"
 metafile = true
@@ -285,6 +300,16 @@ hash = "40568e27bafdcd30606f25192bf1450dfb292b77cb7a3d9b47cf05b59bd8aa51"
 metafile = true
 
 [[files]]
+file = "mods/fallen-gems-affixes.pw.toml"
+hash = "2059f9863f6ba149611f63a25110367d5b46b645ae5efbc0418bc2afe008ee13"
+metafile = true
+
+[[files]]
+file = "mods/fallen-lib.pw.toml"
+hash = "05a5f8d189e68fa19d60fb03060a6ee9fe234ebe75764925594791aa65fe27cf"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "bcdf0eb4ba4f7b5373a1bc736fd3722d95604bef8390492b2ff4f96676980d21"
 metafile = true
@@ -417,6 +442,11 @@ metafile = true
 [[files]]
 file = "mods/laserio.pw.toml"
 hash = "9d85a210e77661032cfbcd930059096be6cfb6afd9abedde21bcdfa4e5b25e54"
+metafile = true
+
+[[files]]
+file = "mods/loot-beams.pw.toml"
+hash = "b7f329bc564dce798474d3cc4ae9aa08f61896c605e9e84756fe58fbeb14e92f"
 metafile = true
 
 [[files]]
@@ -575,6 +605,11 @@ hash = "36b5bf6dbe0178b0b46a31806653cfe9a811c5d1c133852a9a58ca1f7f8d9393"
 metafile = true
 
 [[files]]
+file = "mods/placebo.pw.toml"
+hash = "045d582e2c534c5bb96d7336b4ae2cd12692c6de29b19ae5f1dbfd8759c03b03"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "30484a8787dd30e579c7098b77d0c1d243044c7458828b87d8c81c92001717fa"
 metafile = true
@@ -677,6 +712,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "35905f57cdb21a2aaa26345f2fabe3137ee2db6ee3bb2149cea206611b11ef69"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "794e5ce53566cdf3479d6f5a7cf58c13c7ffd6a0bcaa2904e2d883e6fec09a4c"
 metafile = true
 
 [[files]]
