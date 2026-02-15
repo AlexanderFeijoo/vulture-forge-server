@@ -445,11 +445,6 @@ hash = "9d85a210e77661032cfbcd930059096be6cfb6afd9abedde21bcdfa4e5b25e54"
 metafile = true
 
 [[files]]
-file = "mods/loot-beams.pw.toml"
-hash = "b7f329bc564dce798474d3cc4ae9aa08f61896c605e9e84756fe58fbeb14e92f"
-metafile = true
-
-[[files]]
 file = "mods/macaws-bridges.pw.toml"
 hash = "bada712182292da181bbfb5e0516210adc4569a309528367c65d197f255195db"
 metafile = true
