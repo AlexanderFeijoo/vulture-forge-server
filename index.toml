@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CLAUDE.md"
+hash = "ef908f70caace1130ea3af74afccb15c28cef185f6e4e6c0e040170bf4f88015"
+
+[[files]]
 file = "README.md"
 hash = "82d6ab8c5f4f3bd40f533948b9ffca2e659aa36af5c99e51d664952e48f9d12f"
 
@@ -135,6 +139,16 @@ hash = "feaceb0f48f0feedbbc31dc8d8a51e7e8a7d0becf5e358af2b2bc615bcb4d572"
 metafile = true
 
 [[files]]
+file = "mods/blue-skies.pw.toml"
+hash = "e4780c8879c616f7f73fe0a0e729e32f82d2f9076d9b6af12ff5a305f3918b2c"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "9dd51ab0922a7d30febbfdaaeda8f8c356a76df76549a537c396c6740d117830"
+metafile = true
+
+[[files]]
 file = "mods/botania.pw.toml"
 hash = "39324cbbab83542e57c626bf4d7c95e40765191a7056e12bc6c651cb7ab3d36c"
 metafile = true
@@ -147,6 +161,11 @@ metafile = true
 [[files]]
 file = "mods/bountiful.pw.toml"
 hash = "1776e02ca3613682867cc87bd40347e517ece531217222b49af635c3c80da1ff"
+metafile = true
+
+[[files]]
+file = "mods/bygone-nether.pw.toml"
+hash = "af3ece2be745c14463ba713fd453cfca07f829137059d74954cc392a6de36e3e"
 metafile = true
 
 [[files]]
@@ -250,6 +269,11 @@ hash = "a96f37497f8f48b02e8c61055c9ae8c2f3c363382463b406056c0c26e9fb3c66"
 metafile = true
 
 [[files]]
+file = "mods/deeperdarker.pw.toml"
+hash = "0e8ff70ce45d65043877f550cf93b124d5391a036944eb5f8bd929c654bdc0a5"
+metafile = true
+
+[[files]]
 file = "mods/deltaboxlib.pw.toml"
 hash = "ec418e0529fdc867ed219bed9da740cf861caae2af29c7e9eda2c0636708ee02"
 metafile = true
@@ -265,6 +289,11 @@ hash = "65c7bf976b8ce97677f2a4939b6e92b16d8ba7cbe928ac402467fd6c5db9b0f8"
 metafile = true
 
 [[files]]
+file = "mods/dungeoncrawl.pw.toml"
+hash = "4bb57954ad7742f2592edff690b8c6eb674b60eeb474ed104d9efcab7dc6772b"
+metafile = true
+
+[[files]]
 file = "mods/eidolonrepraised.pw.toml"
 hash = "c5c3b4ad7a932e3f3f963dabd0f1557b9db845d17624f08e68910e1cc1c4997a"
 metafile = true
@@ -272,6 +301,11 @@ metafile = true
 [[files]]
 file = "mods/embeddium.pw.toml"
 hash = "2a4e32365b962f7857d6003af7abee398a92919a5b3ddcd2a51ab9359b80865a"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "44356a258cddc6db59bd3ced70b822286f1263079a390298485b1601f5e713c3"
 metafile = true
 
 [[files]]
@@ -335,6 +369,11 @@ hash = "376f8a190f00bd120193d7a665ebe1b03dfe329cc395f7d944f7216c1182c84d"
 metafile = true
 
 [[files]]
+file = "mods/friends-and-foes-forge.pw.toml"
+hash = "9b26443d8a0a52727dbea33487145e7f9ad495bfee7fc21a462c815a1f5fc563"
+metafile = true
+
+[[files]]
 file = "mods/functional-storage.pw.toml"
 hash = "286b367c1afbdaa94c69497ee5ca19734f91d8796f8c697535b506aeccf18aba"
 metafile = true
@@ -347,6 +386,11 @@ metafile = true
 [[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "91e0af4b9989dd9a706d43e32ad498184d9400646f89362877bae96c207b7b70"
+metafile = true
+
+[[files]]
+file = "mods/guard-villagers.pw.toml"
+hash = "41e74794a24d8311810bbbf6f52c49069abfe1c77cecd27ff84acfcd9e8c45a2"
 metafile = true
 
 [[files]]
@@ -442,6 +486,16 @@ metafile = true
 [[files]]
 file = "mods/laserio.pw.toml"
 hash = "9d85a210e77661032cfbcd930059096be6cfb6afd9abedde21bcdfa4e5b25e54"
+metafile = true
+
+[[files]]
+file = "mods/lendercataclysm.pw.toml"
+hash = "75199fa3b762c5aa781e3cb2aab7779d19128b2a1c5b15798d5e613df8d16573"
+metafile = true
+
+[[files]]
+file = "mods/lionfish-api.pw.toml"
+hash = "24fb3877a720dd3c5d51016bec730672f47356db9983a6920797befb373a147c"
 metafile = true
 
 [[files]]
@@ -737,6 +791,11 @@ metafile = true
 [[files]]
 file = "mods/storagedrawers.pw.toml"
 hash = "c6bb138b06728cce7030905266d2333cb9d75cb88e28035e776946923577c3f4"
+metafile = true
+
+[[files]]
+file = "mods/structure-gel-api.pw.toml"
+hash = "f9966c3e2ba050306b8c96f610ed705931cc48fedca54fb4270af875aa54dff3"
 metafile = true
 
 [[files]]

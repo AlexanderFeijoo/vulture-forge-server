@@ -1,0 +1,13 @@
+name = "Dungeon Crawl"
+filename = "Dungeon Crawl-1.20.1-2.3.15.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/q0rRg4lH/versions/MJrfb4gi/Dungeon%20Crawl-1.20.1-2.3.15.jar"
+hash-format = "sha1"
+hash = "e17ebc9be0b3f0646f2de10563b72827442cc866"
+
+[update]
+[update.modrinth]
+mod-id = "q0rRg4lH"
+version = "MJrfb4gi"
