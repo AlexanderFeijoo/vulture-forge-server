@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "CLAUDE.md"
-hash = "ef908f70caace1130ea3af74afccb15c28cef185f6e4e6c0e040170bf4f88015"
-
-[[files]]
 file = "README.md"
 hash = "82d6ab8c5f4f3bd40f533948b9ffca2e659aa36af5c99e51d664952e48f9d12f"
 
