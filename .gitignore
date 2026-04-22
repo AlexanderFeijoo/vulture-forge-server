@@ -1,6 +1,11 @@
 .packwiz/
 *.log
 *.mrpack
+*.bak
 .claude/*
 CLAUDE.md
-docs/
+.dev
+docs/*
+# All dev-only artifacts live under .dev/ — not committed, not shipped.
+# Includes: test-configs (Prism), live-configs (server backup), docs, old-releases.
+.dev/

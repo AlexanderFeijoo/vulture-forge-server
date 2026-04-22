@@ -1,0 +1,13 @@
+name = "Coffee Delight"
+filename = "CoffeeDelight-Forge-1.20.1-1.5-Fix.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jn1HiMrY/versions/BagpCzde/CoffeeDelight-Forge-1.20.1-1.5-Fix.jar"
+hash-format = "sha1"
+hash = "c57f2d25223b2fea8a745de0b2579b177ba04809"
+
+[update]
+[update.modrinth]
+mod-id = "jn1HiMrY"
+version = "BagpCzde"

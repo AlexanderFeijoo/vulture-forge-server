@@ -1,0 +1,13 @@
+name = "Loot Journal: Pickup Notifier"
+filename = "loot_journal-forge-1.20.1-6.1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OJ6ZYz5L/versions/PYwRoCaZ/loot_journal-forge-1.20.1-6.1.2.jar"
+hash-format = "sha1"
+hash = "9b639a911da3bcb58852573480ca97c85d3f2741"
+
+[update]
+[update.modrinth]
+mod-id = "OJ6ZYz5L"
+version = "PYwRoCaZ"

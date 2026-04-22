@@ -1,0 +1,13 @@
+name = "Unnamed Desert"
+filename = "u_desert-1.6.3+mc1.19-1.21.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ThFWvdF1/versions/ITNSCuzL/u_desert-1.6.3%2Bmc1.19-1.21.8.jar"
+hash-format = "sha1"
+hash = "717662a227cf1d4d2722783a7c4f68729c451b09"
+
+[update]
+[update.modrinth]
+mod-id = "ThFWvdF1"
+version = "ITNSCuzL"

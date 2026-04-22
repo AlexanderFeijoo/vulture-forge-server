@@ -1,0 +1,13 @@
+name = "Companions!"
+filename = "companions-forge-1.20.1-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ArBFNu9T/versions/tRdFuaky/companions-forge-1.20.1-1.2.2.jar"
+hash-format = "sha1"
+hash = "72f237712c8a7ed440128d3784260b4b3b09683a"
+
+[update]
+[update.modrinth]
+mod-id = "ArBFNu9T"
+version = "tRdFuaky"

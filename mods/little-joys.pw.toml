@@ -1,0 +1,13 @@
+name = "Little Joys"
+filename = "littlejoys-forge-1.20.1-20.1.14.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/v0j2ftEp/versions/TdGMEJ5E/littlejoys-forge-1.20.1-20.1.14.jar"
+hash-format = "sha1"
+hash = "1db13f3517ba7a4c9bee59438834d534ad0140bb"
+
+[update]
+[update.modrinth]
+mod-id = "v0j2ftEp"
+version = "TdGMEJ5E"

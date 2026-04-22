@@ -1,0 +1,13 @@
+name = "Born in Chaos: Forgotten Content"
+filename = "born_in_chaos_fc-v1.2.0-1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8H5Npk5F/versions/fVJyb7Xm/born_in_chaos_fc-v1.2.0-1.20.1-forge.jar"
+hash-format = "sha1"
+hash = "13cce75dc183a8c743a1e29ecec1438301242d67"
+
+[update]
+[update.modrinth]
+mod-id = "8H5Npk5F"
+version = "fVJyb7Xm"

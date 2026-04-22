@@ -1,0 +1,13 @@
+name = "Oh The Trees You'll Grow"
+filename = "Oh-The-Trees-Youll-Grow-forge-1.20.1-1.6.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/g8NOG5OR/versions/tolj6ec8/Oh-The-Trees-Youll-Grow-forge-1.20.1-1.6.0.jar"
+hash-format = "sha1"
+hash = "fdb62f927153a827f5605474e25759e485480e46"
+
+[update]
+[update.modrinth]
+mod-id = "g8NOG5OR"
+version = "tolj6ec8"

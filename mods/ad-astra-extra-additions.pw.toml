@@ -1,0 +1,13 @@
+name = "Ad Astra: Extra Additions"
+filename = "ad_astra_extra_additions-1.20.1-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pcspJ4DD/versions/OqZ6P9RN/ad_astra_extra_additions-1.20.1-1.1.1.jar"
+hash-format = "sha1"
+hash = "498e251d159a3763dd70d16399daf99642484764"
+
+[update]
+[update.modrinth]
+mod-id = "pcspJ4DD"
+version = "OqZ6P9RN"

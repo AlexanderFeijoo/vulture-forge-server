@@ -1,0 +1,13 @@
+name = "Pufferfish's Unofficial Additions"
+filename = "pufferfish_unofficial_additions-1.20.1-2.2.4-all.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/IAao6ECB/versions/zBxbtY3a/pufferfish_unofficial_additions-1.20.1-2.2.4-all.jar"
+hash-format = "sha1"
+hash = "c9605c0e871900297bf513e8630aebf878615235"
+
+[update]
+[update.modrinth]
+mod-id = "IAao6ECB"
+version = "zBxbtY3a"

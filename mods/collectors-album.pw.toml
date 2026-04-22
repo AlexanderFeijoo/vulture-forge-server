@@ -1,0 +1,13 @@
+name = "Collectors Album"
+filename = "collectorsalbum-forge-1.20.1-2.1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4pdmGHx9/versions/j4TkdUFz/collectorsalbum-forge-1.20.1-2.1.4.jar"
+hash-format = "sha1"
+hash = "0f63be67baacda1fb29816d0cc9b6b24f568ba0f"
+
+[update]
+[update.modrinth]
+mod-id = "4pdmGHx9"
+version = "j4TkdUFz"

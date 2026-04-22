@@ -1,0 +1,13 @@
+name = "Ad Astra: More Structures"
+filename = "ad_astra_more_structures-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1Z4JHpyZ/versions/qZGw4bNN/ad_astra_more_structures-1.0.0.jar"
+hash-format = "sha1"
+hash = "7ceb1df8113e4e87ac74c61a4f2cdd2f6d6ceca4"
+
+[update]
+[update.modrinth]
+mod-id = "1Z4JHpyZ"
+version = "qZGw4bNN"

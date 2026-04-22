@@ -1,0 +1,13 @@
+name = "Kiwi 🥝"
+filename = "Kiwi-1.20.1-Forge-11.10.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ufdDoWPd/versions/wicX5vj2/Kiwi-1.20.1-Forge-11.10.1.jar"
+hash-format = "sha1"
+hash = "f8d2fdd1cda71b7b60d8e4ad68ee0070b255b74f"
+
+[update]
+[update.modrinth]
+mod-id = "ufdDoWPd"
+version = "wicX5vj2"

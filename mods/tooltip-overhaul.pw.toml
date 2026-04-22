@@ -1,0 +1,13 @@
+name = "Tooltip Overhaul"
+filename = "tooltipoverhaul-forge-1.20.1-1.4.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/vRFcG5n6/versions/9appGihq/tooltipoverhaul-forge-1.20.1-1.4.3.jar"
+hash-format = "sha1"
+hash = "d3e2ce89fd870d496dd0a86c635305a3f34825c1"
+
+[update]
+[update.modrinth]
+mod-id = "vRFcG5n6"
+version = "9appGihq"

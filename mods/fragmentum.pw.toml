@@ -1,0 +1,13 @@
+name = "Fragmentum"
+filename = "fragmentum-forge-1.20.1-1.1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/49C5QgTK/versions/nH6DeFfb/fragmentum-forge-1.20.1-1.1.4.jar"
+hash-format = "sha1"
+hash = "02aa22eee381b11811e43a3ac36e6013eca5eae4"
+
+[update]
+[update.modrinth]
+mod-id = "49C5QgTK"
+version = "nH6DeFfb"

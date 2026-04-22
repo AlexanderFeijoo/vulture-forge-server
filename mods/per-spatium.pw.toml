@@ -1,0 +1,13 @@
+name = "Ad Astra: Per Spatium Et Tempus"
+filename = "perspatium-1.20.1-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IHyWDPnp/versions/oqpXKch5/perspatium-1.20.1-1.2.0.jar"
+hash-format = "sha1"
+hash = "d6e472611dfa3e9d59c125dee4400fe80537362e"
+
+[update]
+[update.modrinth]
+mod-id = "IHyWDPnp"
+version = "oqpXKch5"

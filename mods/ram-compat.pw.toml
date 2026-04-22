@@ -1,0 +1,13 @@
+name = "Relics: Alex's Mobs Compat"
+filename = "ramcompat-1.20.1-0.1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uS725fXT/versions/g64HNKRQ/ramcompat-1.20.1-0.1.4.jar"
+hash-format = "sha1"
+hash = "6475d3d9eed8ede0a2e9356aacc6a81bf713de2a"
+
+[update]
+[update.modrinth]
+mod-id = "uS725fXT"
+version = "g64HNKRQ"

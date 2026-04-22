@@ -1,0 +1,13 @@
+name = "Sons of Sins"
+filename = "sons-of-sins-1.20.1-2.1.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/l7YxzukZ/versions/OffKysVW/sons-of-sins-1.20.1-2.1.9.jar"
+hash-format = "sha1"
+hash = "0b4ef5113c0fcd2f262bbcbd874df3a78da10980"
+
+[update]
+[update.modrinth]
+mod-id = "l7YxzukZ"
+version = "OffKysVW"

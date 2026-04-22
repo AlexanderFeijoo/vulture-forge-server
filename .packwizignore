@@ -1,2 +1,24 @@
+# Files/folders to exclude from the exported .mrpack.
+# Anything here stays in the repo but does NOT ship to players.
+
+# Secrets and internal docs
 CLAUDE.md
 secrets.md
+README.md
+docs/
+
+# Claude Code / dev-tool metadata
+.claude/
+.git/
+.gitignore
+.gitattributes
+.packwizignore
+
+# Dev-only scratch (test configs, live server config backups, old mrpacks,
+# anything not meant to ship). Mirrors .gitignore's .dev/ catch-all.
+.dev/
+
+# Build artifacts — don't bundle old mrpacks inside new mrpacks
+*.mrpack
+*.bak
+*.log

@@ -1,0 +1,13 @@
+name = "Portable Mobs"
+filename = "portablemobs-1.2.0-forge-mc1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "07dc1116273306d138928c0cf429bce38c191b2a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4719266
+project-id = 503922

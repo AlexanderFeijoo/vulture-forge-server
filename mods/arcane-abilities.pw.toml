@@ -1,0 +1,13 @@
+name = "Relics: Arcane Abilities"
+filename = "arcane_abilities-0.3.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/skRKjv3D/versions/jAoXff3B/arcane_abilities-0.3.2.jar"
+hash-format = "sha1"
+hash = "84a1def497023f0887ba6bf81227328d43e81895"
+
+[update]
+[update.modrinth]
+mod-id = "skRKjv3D"
+version = "jAoXff3B"

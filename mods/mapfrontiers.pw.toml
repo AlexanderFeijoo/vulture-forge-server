@@ -1,0 +1,13 @@
+name = "MapFrontiers"
+filename = "MapFrontiers-1.20.1-2.6.1p3-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hWlsli6y/versions/HRU5wf09/MapFrontiers-1.20.1-2.6.1p3-forge.jar"
+hash-format = "sha1"
+hash = "f4d41ed15794034c840e8edca4ca88e94049c0d8"
+
+[update]
+[update.modrinth]
+mod-id = "hWlsli6y"
+version = "HRU5wf09"

@@ -1,0 +1,13 @@
+name = "Area Effect Clouds 3D"
+filename = "areaeffectcloud3d-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6uNpi7nI/versions/QevoTLB5/areaeffectcloud3d-1.0.4.jar"
+hash-format = "sha1"
+hash = "e4ec3bf548f4fd67e798fa805e3bfe787f5fa373"
+
+[update]
+[update.modrinth]
+mod-id = "6uNpi7nI"
+version = "QevoTLB5"

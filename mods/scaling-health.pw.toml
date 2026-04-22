@@ -1,0 +1,13 @@
+name = "Scaling Health"
+filename = "ScalingHealth-1.20.1-8.0.2+9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UvEHlX52/versions/OTsI95Em/ScalingHealth-1.20.1-8.0.2%2B9.jar"
+hash-format = "sha1"
+hash = "d0d36837568ee1ce7511647b977f9e8402055c19"
+
+[update]
+[update.modrinth]
+mod-id = "UvEHlX52"
+version = "OTsI95Em"
