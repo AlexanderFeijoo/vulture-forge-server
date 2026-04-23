@@ -1,6 +1,6 @@
 name = "The Lost Cities"
 filename = "lostcities-1.20-7.4.11.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/8VDCUS3b/versions/D43m5aav/lostcities-1.20-7.4.11.jar"

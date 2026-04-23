@@ -1,0 +1,13 @@
+name = "Immersive Optimization"
+filename = "immersive_optimization-forge-1.20.1-0.1.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/vNZgQmjg/versions/x7rjIeqE/immersive_optimization-forge-1.20.1-0.1.4.jar"
+hash-format = "sha1"
+hash = "c9922d12d6aa985c44a7dc1338ec4934caac7647"
+
+[update]
+[update.modrinth]
+mod-id = "vNZgQmjg"
+version = "x7rjIeqE"
