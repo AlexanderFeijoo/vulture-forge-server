@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/amendments-client.toml"
-hash = "bf3672319a7f5f05d701a0716fb6632b9609a720d12ac38bb5edf374209c3bcd"
+hash = "ddf02b25e9c414c47c1229282da4d9abfbd14de41e594f6ee0fdd5a46d426e05"
 
 [[files]]
 file = "mods/ad-astra-extra-additions.pw.toml"
