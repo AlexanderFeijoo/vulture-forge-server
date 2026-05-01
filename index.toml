@@ -376,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "5b0eaf19630d6145093ae6ff9a21cf2dbdd0da53d9289673ad5ccb099afa18b7"
+hash = "5a4be301e1cf7885298a4f2c15dcbf8f015762bb64d5fa53977b26ec2ec069d5"
 metafile = true
 
 [[files]]
